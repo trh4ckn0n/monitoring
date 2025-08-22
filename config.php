@@ -23,9 +23,9 @@ return [
     'DB_PASS' => null,
 
     // Auth simple (login du dashboard)
-    'AUTH_EMAIL' => 'admin@example.local',
+    'AUTH_EMAIL' => 'jeremydiliotti@gmail.com',
     // Password hash généré par password_hash('ton_mdp', PASSWORD_DEFAULT)
-    'AUTH_PASS_HASH' => '$2y$10$zq6Df0V...remplace_moi...ZC',
+    'AUTH_PASS_HASH' => '$2y$12$sx127C5BuxBkdylx6Y6UDOLgQ0JGfCaPSZLB3nD9ExmJl5ZuSv4ZS',
 
     // Alertes e-mail (nouveaux ports détectés)
     'ALERTS_ENABLED' => true,
